@@ -6,6 +6,7 @@ Run pip or conda to install these prerequisites:
 1. pandas
 2. tweepy
 3. textblob
+4.WordCloud
 
 WHAT I DID ?
 
