@@ -5,10 +5,7 @@ Python script for twitter sentiment analysis using TextBlob and Wordcloud for ex
 Run pip or conda to install these prerequisites:
 1. pandas
 2. tweepy
-3. matplotlib
-4. googletrans
-5. textblob
-6. wordcloud
+3. textblob
 
 WHAT I DID ?
 
