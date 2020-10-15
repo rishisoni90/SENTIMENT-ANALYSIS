@@ -10,4 +10,8 @@ Run pip or conda to install these prerequisites:
 5. textblob
 6. wordcloud
 
+WHAT I DID ?
+
+Just little coding in Python , but mostly my work is presentation and documentation.
+
 RISHI KUMAR SONI
